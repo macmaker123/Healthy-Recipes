@@ -1,2 +1,2 @@
 # First-CSS-Project
-#This is a project directed by Codecademy where I style a Healthy Recipe.
+This is a project directed by Codecademy where I style a Healthy Recipe.
