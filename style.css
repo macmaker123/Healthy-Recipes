@@ -1,0 +1,28 @@
+/*Resizing image*/
+img {
+  height: 150px;
+}
+/*Bigger font for recipe description*/
+.description {
+  font-size: 20px
+}
+/*Bolds the Total time*/
+#cook-time {
+  font-weight: bold
+}
+/*Changes points inside of Ingredients from circles to squares*/
+.ingredients li {
+  list-style: square;
+}
+/*Makes all times in the Preperation gray*/
+.time {
+  color: gray;
+}
+/*Recolors link*/
+.external-link {
+  color: SeaGreen;
+}
+/*Changes selected font to Helvetica*/
+h1, h2, p, li {
+  font-family: Helvetica;
+}
