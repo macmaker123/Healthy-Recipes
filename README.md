@@ -1,2 +1,2 @@
 # Healthy Recipe
-First CSS Project. This is a project where I use CSS to style html code, changing a websites appearance.
+First CSS Project. This is a project directed by Codecademy where I style an HTML website using CSS
